@@ -1,0 +1,5 @@
+Gra do działania wymaga biblioteki pygame.
+Gra rozpoczyna się gdy serwer znajdzie dwóch graczy oczekujących na rozgrwkę.
+
+1. Stwórz serwer lokalny uruchamiając plik server.py
+2. Aby włączyć grę uruchom plik client.py (dwukrotnie)
